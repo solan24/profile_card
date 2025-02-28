@@ -1,0 +1,45 @@
+
+.blueColor{
+    background-color: PINK;
+    width: 300PX;
+    color: blue;
+    align-content: center;
+}
+.foo{
+    color:yellow;
+    padding-left: 20px;
+    
+}
+.redColor{
+     color:red;
+    
+}
+.header{
+     color:rgb(27, 99, 16) ; 
+    width: 300px; 
+    display: flex;
+    align-items: center;
+    background-color: rgb(212, 170, 195);
+}
+  .items{
+    padding-left: 50px
+  } 
+  .logo-text{
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .details-text{
+    padding-left: 30px;
+    color:blueviolet
+  }
+.text{
+  color:black;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color:white
+}
+  
